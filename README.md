@@ -1,4 +1,6 @@
 # DIP-Project-Toonification
 Final Project DIP : TOONIFICATION
-duse myToonification.m file to run
-image directory is same is code directory
+#
+Use myToonification.m file to run
+#
+Everything is in same directory
